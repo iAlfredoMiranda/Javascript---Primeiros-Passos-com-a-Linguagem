@@ -1,6 +1,7 @@
 console.log("Work with Variables")
 
-const idade = 25
+let idade // declaração
+idade = 25 // atribuição
 let lastName = "Miranda"
 const fristName = "Alfredo"
 console.log(`Your name is ${lastName} ${fristName}`)
